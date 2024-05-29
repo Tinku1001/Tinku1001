@@ -1,4 +1,4 @@
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fcoding&psig=AOvVaw3e4nVaEl8WjuN5DBF5M53V&ust=1717060871834000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwjW0e2rxLKGAxUCbWwGHU46DAQQjRx6BAgAEBQ" > 
+
 <h1 align="center">Hi 👋, I'm Tinku kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
