@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tinku1001&label=Profile%20views&color=0e75b6&style=flat" alt="tinku1001" /> </p>
 
-- 🌱 I’m currently learning **Mern stack development.**
+- 🌱 I’m currently working as **Software engineer 1** at **MAQ Software**.
 
 - 💬 Ask me about **DSA, java, mern stack develpment.**
 
